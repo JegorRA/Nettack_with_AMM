@@ -34,6 +34,9 @@ This implementation is written in Python 3 and uses Tensorflow for the GCN learn
 ## Example output
 ![Nettack example result](https://raw.githubusercontent.com/danielzuegner/nettack/master/example.png)
 
+## Time experiments results
+![alt text](https://github.com/JerorRA/Nettack_with_AMM/blob/main/time.png?raw=true)
+
 ## References
 ### Datasets
 In the `data` folder we provide the following datasets originally published by   
