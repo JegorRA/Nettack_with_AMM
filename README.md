@@ -1,6 +1,7 @@
 # Adversarial Attacks on Neural Networks for Graph Data
+# Adjency Matrix Modification
 
-Implementation of the method proposed in the paper:   
+Implementation of the Nettack method proposed in the paper:   
 **[Adversarial Attacks on Neural Networks for Graph Data](https://arxiv.org/abs/1805.07984)**
 
 by Daniel Zügner, Amir Akbarnejad and Stephan Günnemann.   
@@ -9,6 +10,8 @@ Published at SIGKDD'18, August 2018, London, UK
 Copyright (C) 2018   
 Daniel Zügner   
 Technical University of Munich    
+
+Modification proposed by Ryabinin Jegor
 
 [Poster & Presentation Slides](https://www.cs.cit.tum.de/daml/forschung/nettack/)
 
@@ -30,9 +33,6 @@ This implementation is written in Python 3 and uses Tensorflow for the GCN learn
 
 ## Example output
 ![Nettack example result](https://raw.githubusercontent.com/danielzuegner/nettack/master/example.png)
-  
-## Contact
-Please contact zuegnerd@in.tum.de in case you have any questions.
 
 ## Citation
 Please cite our paper if you use the model or this code in your own work:
